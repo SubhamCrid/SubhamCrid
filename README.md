@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cridishere&label=Profile%20views&color=0e75b6&style=flat" alt="cridishere" /> </p>
 
-- 🔗 I’m currently exploring **Android App Development** and the **JavaScript Ecosystem (React, Node.js, etc.)**
+- 🔗 I’m currently exploring the **JavaScript Ecosystem (React, Node.js, etc.)**
 
 - 🎓 Actively enhancing my skills in **Python, MySQL, and Data Science**
 
@@ -13,7 +13,7 @@
 
 - 🌐 All my projects are showcased at [clefso.com/subham/projects](https://clefso.com/subham/projects)
 
-- 📧 Reach me at **roysubham.official@gmail.com** or on **Discord: @cridishere**
+- 📧 Reach me at **roysubham.official@gmail.com** or on **Discord: @SubhamCrid**
 
 - 😎 Fun Fact: **I recently launched my YouTube channel to share tech content and tutorials**
 
